@@ -119,8 +119,8 @@ void solve(vector<int>& a, int n, int& i, int m){
 
 int main(){
 
-    vector<int> nums1 = [18,4,8,19,13,8];
-    vector<int> nums2 = [18,11,8,2,13,15];
+    vector<int> nums1 = {18,4,8,19,13,8};
+    vector<int> nums2 = {18,11,8,2,13,15};
     int k1 = 16;
     int k2 = 8;
     int a=minSumSquareDiff(nums1,nums2,k1,k2); 
