@@ -123,7 +123,7 @@ int main(){
     vector<int> nums2 = [18,11,8,2,13,15];
     int k1 = 16;
     int k2 = 8;
-    int a=minSumSquareDiff(nums1,nums2,k1,k2);
+    int a=minSumSquareDiff(nums1,nums2,k1,k2); 
     cout<<"Answer:- "<<a<<endl;
 
     return 0;
