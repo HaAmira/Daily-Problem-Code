@@ -29,7 +29,7 @@ int main(){
     vector<int> nums = {1,2,1};
 
     int a=sumCounts(nums); 
-    cout<<"Answer:- "<<a<<endl;
+    cout<<"Answer:-> "<<a<<endl;
 
     return 0;
 }
